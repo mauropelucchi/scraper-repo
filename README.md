@@ -5,6 +5,8 @@ The notebook are based on Google Colab and contains all the step to re-run the s
 
 - [Scraping NAICS](https://github.com/mauropelucchi/scraper-repo/blob/main/notebook/NAICS/Web_Scraping_with_Selenium_NAICS.ipynb)
 - [Scraping PRIMA BERGAMO Newspaper](https://github.com/mauropelucchi/scraper-repo/blob/main/notebook/primabergamo/PRIMA_News_scraper.ipynb)
+- [Scraping Amazon.jobs](https://github.com/mauropelucchi/scraper-repo/blob/main/notebook/amazon_jobs/Scraping_JobPosting.ipynb)
+- [Crawling (basic) Reddit: it's only to demo a crawler...](https://github.com/mauropelucchi/scraper-repo/blob/main/notebook/reddit/Crawling_Reddit.ipynb)
 
 
 # MIT License
